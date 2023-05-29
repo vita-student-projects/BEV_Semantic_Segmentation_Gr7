@@ -1,0 +1,8 @@
+*.pyc
+data
+.ipynb_checkpoints
+ckpts
+mmdetection3d
+val
+work_dirs
+*.pkl
