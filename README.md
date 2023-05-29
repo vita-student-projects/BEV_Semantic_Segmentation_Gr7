@@ -192,7 +192,7 @@ $$\text{mIoU}(S_p,S_g)=\frac{1}{N}\sum^{N}_{n=1}\text{IOU}_n(S_p,S_g)$$
   - Before training, please change [dist_tran.sh](./tools/dist_train.sh) to specify the GPU master port & address.
 
   - Before evaluation, please download the pre-trained models first and move them to ckpts folder. Also, you should specify and create the folder (check the ***show_dir*** argument in [dist_test.sh](./tools/dist_test.sh)) for storing visualization files. 
-  - The train and inference scripts are [HERE](./tools/)
+  - The train and inference scripts are [HERE](./tools/).
   
     
 
