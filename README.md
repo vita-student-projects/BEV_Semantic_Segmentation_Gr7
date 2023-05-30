@@ -156,7 +156,7 @@ $$\text{mIoU}(S_p,S_g)=\frac{1}{N}\sum^{N}_{n=1}\text{IOU}_n(S_p,S_g)$$
 - **h. Clone this repo.**
 
   ```
-  git clone [https://github.com/XufengGAO/BEV-Semantic-Segmentation.git](https://github.com/vita-student-projects/BEV_Semantic_Segmentation_Gr7.git)
+  git clone https://github.com/vita-student-projects/BEV_Semantic_Segmentation_Gr7.git
   ```
 
 
