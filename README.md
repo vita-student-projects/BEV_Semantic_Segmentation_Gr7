@@ -163,7 +163,7 @@ $$\text{mIoU}(S_p,S_g)=\frac{1}{N}\sum^{N}_{n=1}\text{IOU}_n(S_p,S_g)$$
 - **i. Prepare pretrained backbone network.**
 
   ```bash
-  cd BEV-Semantic-Segmentation
+  cd BEV_Semantic_Segmentation_Gr7
   mkdir ckpts
   
   cd ckpts & wget https://github.com/zhiqi-li/storage/releases/download/v1.0/r101_dcn_fcos3d_pretrain.pth
